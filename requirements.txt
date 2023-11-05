@@ -4,3 +4,4 @@ spacy
 gunicorn
 typing-extensions
 waitress
+uwsgi
